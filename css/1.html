@@ -1,0 +1,48 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .nandu{
+            text-align: center;
+            color: aqua;
+            padding-bottom: 10px;
+        }
+        #shiva{
+            color:red;
+            margin: 10px;
+        }
+    </style>
+ </head>
+ <body>
+    <div class="nandu">
+        <p>home</p>
+        <p>
+            class
+        </p>
+    </div>
+    <h1>Hi,I Am Nandu!</h1>
+    <p class="nandu">wel-come to my web page</p>
+    <p id="shiva">wel-come to my web page</p>
+    <button onclick="changeColor()">Change Color</button>
+    <script>
+        document.getElementsByClassName("nandu").innerHTML="this my first javascript";
+        document.getElementByid("shiva").innerHTML="this my first javascript";
+        document.write("Hello \ World!");
+        function changeCOlor(){
+            document.boby.style.blackgroundcolor="red";
+        }
+        let a=10;
+        let b=5;
+        console.log("addition: ",a+b);
+        console.log("subtraction: ",a-b);
+        console.log("multiplication: ",a*b);
+        console.log('division: ',a /b);
+        console.log("modulus:",a%b);
+        
+
+    </script>
+ </body>
+ </html>
