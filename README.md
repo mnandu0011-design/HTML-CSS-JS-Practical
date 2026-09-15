@@ -1,38 +1,57 @@
-# HTML, CSS & JavaScript Experiments
+HTML, CSS & JavaScript Practical
 
-This repository contains my practical programs and experiments for learning and practicing **HTML, CSS, and JavaScript**.
+A collection of practical programs and experiments created to learn and practice HTML, CSS, and JavaScript concepts.
 
-## 👨‍🎓 Student Details
+👨‍🎓 Student Details
 
-- **Name:** M. Shiva Nandheswara Reddy
-- **PRN / Register Number:** 250200545
-- **Section:** 6
-- **Subject:** HTML, CSS & JavaScript
-- **University:** Sai University
+- Name: M. Shiva Nandheswara Reddy
+- PRN / Register Number: 250200545
+- Section: 6
+- Subject: HTML, CSS & JavaScript
+- University: Sai University
 
-## 📚 Repository Contents
+📚 About the Project
 
-### HTML Programs
-This section contains practical programs based on HTML concepts such as:
+This repository contains practical programs developed as part of the HTML, CSS & JavaScript Practical course.
+
+The project covers fundamental concepts and practical implementations using:
+
+- HTML5
+- CSS3
+- JavaScript
+- DOM Manipulation
+- Browser APIs
+- Events
+- Forms
+- Web Storage
+- Mini Projects
+
+🗂️ Repository Contents
+
+HTML
+
+HTML practical programs covering:
 
 - Basic HTML structure
 - Headings and paragraphs
 - Lists
 - Tables
-- Images and hyperlinks
+- Images
+- Hyperlinks
 - Forms
 - Audio and video
 - Iframes
 - Semantic HTML
-- HTML5 input types
+- HTML5 elements
+- Input types
 - Timetables
-- CSS integration
 - Responsive webpages
 - Bootstrap
-- Personal portfolio
+- Portfolio webpage
 
-### CSS Programs
-This section contains practical programs covering CSS concepts such as:
+CSS
+
+CSS practical programs covering:
 
 - CSS selectors
 - Colors and backgrounds
@@ -40,7 +59,7 @@ This section contains practical programs covering CSS concepts such as:
 - Margins and padding
 - Borders
 - Flexbox
-- Grid
+- CSS Grid
 - Responsive design
 - Media queries
 - Navigation bars
@@ -48,10 +67,11 @@ This section contains practical programs covering CSS concepts such as:
 - Forms
 - Dashboards
 - Themes
-- Modern user interfaces
+- Modern UI design
 
-### JavaScript Programs
-This section contains practical programs covering JavaScript concepts such as:
+JavaScript
+
+JavaScript practical programs covering:
 
 - JavaScript basics
 - Variables and data types
@@ -59,36 +79,85 @@ This section contains practical programs covering JavaScript concepts such as:
 - Conditional statements
 - Loops
 - Functions
-- Arrays and objects
+- Arrays
+- Objects
 - DOM manipulation
 - Events
 - Form validation
 - Browser features
-- Local storage
+- Local Storage
 - Mini projects
 
-## 📁 Folder Structure
+🌐 Live Website
 
-```text
-experiments/
+The complete practical project is available through GitHub Pages.
+
+Main Website:
+
+https://mnandu0011-design.github.io/HTML-CSS-JS-Practical/
+
+📄 HTML Practical
+
+View the HTML practical programs directly:
+
+HTML Practical:
+https://mnandu0011-design.github.io/HTML-CSS-JS-Practical/html/index.html
+
+📁 Folder Structure
+
+HTML-CSS-JS-Practical/
 │
-├── HTML/
-│   ├── Experiment-01/
-│   ├── Experiment-02/
-│   └── ...
+├── assets/
+├── browser/
+├── css/
+├── dom/
+├── events/
+├── forms/
+├── html/
+├── javascript/
+├── mini/
+├── storage/
 │
-├── CSS/
-│   ├── Experiment-01/
-│   ├── Experiment-02/
-│   └── ...
-│
-├── JavaScript/
-│   ├── Experiment-01/
-│   ├── Experiment-02/
-│   └── ...
-│
-├── MySQL/
-├── NodeJS/
-├── Supabase/
-│
+├── index.html
 └── README.md
+
+💻 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- GitHub Pages
+
+🎯 Objectives
+
+The main objectives of this project are:
+
+1. To understand the fundamentals of HTML.
+2. To design webpages using CSS.
+3. To learn JavaScript programming.
+4. To understand DOM manipulation.
+5. To work with browser events and forms.
+6. To practice web storage.
+7. To develop interactive webpages and mini projects.
+8. To gain practical experience in frontend web development.
+
+🚀 How to Use
+
+1. Clone or download this repository.
+2. Open the project folder.
+3. Open "index.html" in a web browser.
+4. Navigate through the available practical programs.
+5. Open individual HTML files to view and test each experiment.
+
+👨‍💻 Author
+
+M. Shiva Nandheswara Reddy
+
+Student – Section 6
+Sai University
+
+---
+
+⭐ Thank you for visiting this repository!
