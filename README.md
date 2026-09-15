@@ -1,18 +1,18 @@
-HTML, CSS & JavaScript Practical
+# HTML, CSS & JavaScript Practical
 
-A collection of practical programs and experiments created to learn and practice HTML, CSS, and JavaScript concepts.
+A collection of practical programs and experiments created to learn and practice **HTML, CSS, and JavaScript** concepts.
 
-👨‍🎓 Student Details
+## 👨‍🎓 Student Details
 
-- Name: M. Shiva Nandheswara Reddy
-- PRN / Register Number: 250200545
-- Section: 6
-- Subject: HTML, CSS & JavaScript
-- University: Sai University
+- **Name:** M. Shiva Nandheswara Reddy
+- **PRN / Register Number:** 250200545
+- **Section:** 6
+- **Subject:** HTML, CSS & JavaScript
+- **University:** Sai University
 
-📚 About the Project
+## 📚 About the Project
 
-This repository contains practical programs developed as part of the HTML, CSS & JavaScript Practical course.
+This repository contains practical programs developed as part of the **HTML, CSS & JavaScript Practical** course.
 
 The project covers fundamental concepts and practical implementations using:
 
@@ -26,9 +26,9 @@ The project covers fundamental concepts and practical implementations using:
 - Web Storage
 - Mini Projects
 
-🗂️ Repository Contents
+## 🗂️ Repository Contents
 
-HTML
+### HTML
 
 HTML practical programs covering:
 
@@ -49,7 +49,7 @@ HTML practical programs covering:
 - Bootstrap
 - Portfolio webpage
 
-CSS
+### CSS
 
 CSS practical programs covering:
 
@@ -69,7 +69,7 @@ CSS practical programs covering:
 - Themes
 - Modern UI design
 
-JavaScript
+### JavaScript
 
 JavaScript practical programs covering:
 
@@ -88,76 +88,16 @@ JavaScript practical programs covering:
 - Local Storage
 - Mini projects
 
-🌐 Live Website
+## 🌐 Live Website
 
 The complete practical project is available through GitHub Pages.
 
-Main Website:
+### 🏠 Main Website
 
-https://mnandu0011-design.github.io/HTML-CSS-JS-Practical/
+[View Complete Practical Website](https://mnandu0011-design.github.io/HTML-CSS-JS-Practical/)
 
-📄 HTML Practical
+### 📄 HTML Practical
 
-View the HTML practical programs directly:
+[View HTML Practical Programs](https://mnandu0011-design.github.io/HTML-CSS-JS-Practical/html/index.html)
 
-HTML Practical:
-https://mnandu0011-design.github.io/HTML-CSS-JS-Practical/html/index.html
-
-📁 Folder Structure
-
-HTML-CSS-JS-Practical/
-│
-├── assets/
-├── browser/
-├── css/
-├── dom/
-├── events/
-├── forms/
-├── html/
-├── javascript/
-├── mini/
-├── storage/
-│
-├── index.html
-└── README.md
-
-💻 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
-- GitHub Pages
-
-🎯 Objectives
-
-The main objectives of this project are:
-
-1. To understand the fundamentals of HTML.
-2. To design webpages using CSS.
-3. To learn JavaScript programming.
-4. To understand DOM manipulation.
-5. To work with browser events and forms.
-6. To practice web storage.
-7. To develop interactive webpages and mini projects.
-8. To gain practical experience in frontend web development.
-
-🚀 How to Use
-
-1. Clone or download this repository.
-2. Open the project folder.
-3. Open "index.html" in a web browser.
-4. Navigate through the available practical programs.
-5. Open individual HTML files to view and test each experiment.
-
-👨‍💻 Author
-
-M. Shiva Nandheswara Reddy
-
-Student – Section 6
-Sai University
-
----
-
-⭐ Thank you for visiting this repository!
+##
