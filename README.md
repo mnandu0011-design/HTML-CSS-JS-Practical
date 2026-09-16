@@ -5,8 +5,8 @@ A collection of practical programs and experiments created to learn and practice
 
 ## 👨‍🎓 Student Details
 
-- Name: M. Shiva Nandheswara Reddy
-- PRN / Register Number: 250200545
+- ### Name: M. Shiva Nandheswara Reddy
+- ### PRN / Register Number: 250200545
 - Section: 6
 - Subject: HTML, CSS & JavaScript
 - University: Sai University
