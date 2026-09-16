@@ -2,14 +2,16 @@
 
 A collection of practical programs and experiments created to learn and practice **HTML, CSS, and JavaScript** concepts.
 
+
 ## 👨‍🎓 Student Details
 
-- **Name:** M. Shiva Nandheswara Reddy
-- **PRN / Register Number:** 250200545
-- **Section:** 6
-- **Subject:** HTML, CSS & JavaScript
-- **University:** Sai University
-
+- Name: M. Shiva Nandheswara Reddy
+- PRN / Register Number: 250200545
+- Section: 6
+- Subject: HTML, CSS & JavaScript
+- University: Sai University
+- Assignment: HTML, CSS & JavaScript – Practical Assignment
+- Total Number of Programs Completed: 574
 ## 📚 About the Project
 
 This repository contains practical programs developed as part of the **HTML, CSS & JavaScript Practical** course.
